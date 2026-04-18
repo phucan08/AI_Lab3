@@ -38,6 +38,7 @@ BFS Movement Flow:
  - Expands level-by-level - explores all neighbors at distance 1, then distance 2, etc.
  - Finds target by exhaustive search - traces back path once target is found
  - Example: To reach a cell 5 steps away, it might explore ~20+ cells unnecessarily
+
 A* Movement Flow:
  - Prioritizes direction toward goal - uses heuristic to guide search
  - Expands in smart order - focuses on cells closer to target first
