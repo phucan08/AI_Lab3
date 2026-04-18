@@ -114,7 +114,7 @@ class Lab2:
 
         # Search algorithm selector (for MyVacuumAgent)
         self.algorithm_getter = self.create_selection_menu(
-            None,
+            self.update_all,
 
             # Menu options
             ("BFS", "BFS"),
