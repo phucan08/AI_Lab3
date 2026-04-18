@@ -1,6 +1,7 @@
 # AI_Lab3
 
 How to compile and run the code
+
 Quick Start:
 ``
 cd d:\Artificial Intelligent\Lab\NguyenPhucAn_ITCSIU24001_Lab3\Lab3
@@ -32,7 +33,9 @@ Alternative: Run from VS Code:
 Press Ctrl+F5 to run the file, or right-click run_lab2.py → "Run Python File"
 
 Algorithm: Breadth-First Search (BFS) and A*
+
 How the Vacuum Moves
+
 BFS Movement Flow:
  - Explores uniformly in all directions (up, right, down, left)
  - Expands level-by-level - explores all neighbors at distance 1, then distance 2, etc.
